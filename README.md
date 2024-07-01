@@ -4,11 +4,7 @@
 	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 </h3>
 
-![Скриншот_08-май_20-10-10_21812](https://github.com/sofijacom/KLV-HyprlandCE/assets/107557749/728e739d-9376-4768-96b7-307c83afda1d)
-
-
-![2024-05-24_22-29](https://github.com/sofijacom/KLV-HyprlandCE/assets/107557749/e47d2377-fe62-4571-94a5-89a2fd1c821b)
-
+![2024-06-29_16-28](https://github.com/sofijacom/KLV-Hyprland-Sway-CE/assets/107557749/a40e6eca-3239-464f-86e0-34b771ec030e)
 
 ##
 
