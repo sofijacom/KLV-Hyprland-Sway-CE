@@ -1,1 +1,1 @@
-# KLV-Hyprland-Sway-CE
+# *KLV-Hyprland-Sway-CE*
