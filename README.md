@@ -53,7 +53,7 @@ Example of using a .plug file:
 ./build_firstrib_rootfs.sh void default amd64 f_00_Void_wayland_hyprland_sway_0.39_no-kernelBASE.plug
 ```
 
-***f_00_Void_wayland_hyprland_sway_0.39_no-kernelBASE.plug***  builds a  ***(root filesystem)***  for the Arch Linux-based Hyprland desktop operating system, similar to **KLV-Hyprland**.
+***f_00_Void_wayland_hyprland_sway_0.39_no-kernelBASE.plug***  builds a  ***(root filesystem)***  for the Arch Linux-based Hyprland desktop operating system, similar to **KLV-Hyprland-Sway**.
 
 To create a complete distribution, all other utilities, tools and configurations are downloaded from a centralized repository and installed as a .tar.gz file.
 
