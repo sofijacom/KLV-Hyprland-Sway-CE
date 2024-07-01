@@ -4,9 +4,13 @@
 	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 </h3>
 
-![2024-06-29_16-28](https://github.com/sofijacom/KLV-Hyprland-Sway-CE/assets/107557749/a40e6eca-3239-464f-86e0-34b771ec030e)
+# *Sway*
 
-##
+![1719838135_grim](https://github.com/sofijacom/KLV-Hyprland-Sway-CE/assets/107557749/96da6941-5f7e-4273-888a-bed56cfd966d)
+
+# *Hyprland*
+
+![screenshot-20240701-153718](https://github.com/sofijacom/KLV-Hyprland-Sway-CE/assets/107557749/d8b3796f-c417-45af-a2d0-8f4123dc3513)
 
 
 1) Create a folder `KLV-Hyprland-Sway-CE` typing in the terminal `mkdir -p KLV-Hyprland-Sway-CE`
