@@ -46,7 +46,7 @@ FirstRib-KLV build script PLUG file.
 Example of using a .plug file:
 
 ```
-./f_00_Void_wayland_hyprland_0.41_no-kernelBASE.plug
+./f_00_Void_wayland_hyprland_sway_0.39_no-kernelBASE.plug
 ```
 
 ***f_00_Void_wayland_hyprland_sway_0.39_no-kernelBASE.plug***  builds a  ***(root filesystem)***  for the Arch Linux-based Hyprland desktop operating system, similar to **KLV-Hyprland**.
