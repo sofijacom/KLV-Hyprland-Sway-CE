@@ -8,9 +8,6 @@
 
 ![1719838135_grim](https://github.com/sofijacom/KLV-Hyprland-Sway-CE/assets/107557749/96da6941-5f7e-4273-888a-bed56cfd966d)
 
-![2024-07-03_17-42](https://github.com/user-attachments/assets/be6c22e0-4ec3-42d8-a0ad-d156314a31c4)
-
-
 # *Hyprland*
 
 ![screenshot-20240701-153718](https://github.com/sofijacom/KLV-Hyprland-Sway-CE/assets/107557749/d8b3796f-c417-45af-a2d0-8f4123dc3513)
