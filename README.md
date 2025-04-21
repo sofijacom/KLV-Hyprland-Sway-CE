@@ -13,6 +13,10 @@
 ![screenshot-20240701-153718](https://github.com/sofijacom/KLV-Hyprland-Sway-CE/assets/107557749/d8b3796f-c417-45af-a2d0-8f4123dc3513)
 
 
+<a id="installation"></a>  
+<img src="https://github.com/user-attachments/assets/7e1e2fa0-ab50-4901-a024-fe731fb44ab3" width="200"/>
+---
+
 1) Create a folder `KLV-Hyprland-Sway-CE` typing in the terminal `mkdir -p KLV-Hyprland-Sway-CE`
 
 2) Open a terminal in the created folder `KLV-Hyprland-Sway-CE` or go to the folder by typing in the terminal
